@@ -1,1 +1,1 @@
-angular.module("awApp", []);
+angular.module("awApp", []); //load main
